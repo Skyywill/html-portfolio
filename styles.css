@@ -1,3 +1,15 @@
 html{
     background: rgb(235, 148, 247);
 }
+
+h1{
+    color: blanchedalmond;
+}
+
+.red-text{
+    color: red;
+}
+
+p[pargraph="true"]{
+    color: azure;
+}
