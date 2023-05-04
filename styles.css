@@ -10,6 +10,14 @@ h1{
     color: red;
 }
 
+.menu-text{
+    background-color: aqua;
+}
+
+.my-profile{
+    background-color: blue;
+}
+
 p[pargraph="true"]{
     color: azure;
 }
