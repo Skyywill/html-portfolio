@@ -1,13 +1,23 @@
 html{
-    background: rgb(235, 148, 247);
+    background: rgb(30, 26, 31);
+}
+
+*{
+    font-family: 'Bruno Ace SC', cursive;
+    color: blanchedalmond;
 }
 
 h1{
+    font-family: 'Bruno Ace SC', cursive;
     color: blanchedalmond;
 }
 
 .red-text{
     color: red;
+}
+
+.bold-text{
+    font-size: bold;
 }
 
 .menu-text{
